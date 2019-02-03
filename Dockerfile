@@ -1,6 +1,7 @@
 FROM rprakashg/hugo-docker as builder
 RUN mkdir -p /var/www/hugo
 COPY ./site /var/www/hugo
+COPY ./thebeginning /var/www/hugo/thebeginning
 WORKDIR /var/www/hugo
 RUN hugo
 
