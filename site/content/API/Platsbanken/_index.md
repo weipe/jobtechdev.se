@@ -8,7 +8,7 @@ weight: 25
 
 The Open Job API contains all current job ads from Swedish Public Employment Service. Somewhere around 100000 job ads, about 3000 new ads are submitted daily by employers, 5 million accesses to the job posting database daily.
 
-{{% notice tip %}}
+[//]: #{{% notice tip %}}
 A API-key i necessary. Get it here.
 {{% /notice %}}
 
@@ -36,4 +36,4 @@ https://jobtechdev.se/swagger/index.html
 
 Learn more about the Platsbanken API or start use the API right away
 
-[API Open Jobs (Platsbanken)](https://jobtechdev.se/swagger/index.html)
+[API Open Jobs (Platsbanken)](/swagger/index.html)
