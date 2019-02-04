@@ -2,6 +2,7 @@
 title: "Historical job postings"
 disableToc: true
 menuTitle: "Jobs - Historical Jobs"
+weight: 20
 date: 2019-01-19T20:06:16+01:00
 ---
 

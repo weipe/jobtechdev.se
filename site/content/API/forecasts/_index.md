@@ -2,6 +2,7 @@
 title: "Occupation forecast"
 disableToc: true
 menuTitle: "Occupations - Forecasts"
+weight: 30
 date: 2019-01-19T20:06:16+01:00
 ---
 
@@ -20,3 +21,5 @@ The API is an open interface without contract or registration requirements.
 ````
 http://api.arbetsformedlingen.se/af/v2/forecasts/api/#!/forecasts/
 ````
+
+[API Occupation forecast](http://api.arbetsformedlingen.se/af/v2/forecasts/api/#!/forecasts/)

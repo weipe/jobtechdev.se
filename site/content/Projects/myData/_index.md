@@ -4,7 +4,7 @@ disableToc: true
 date: 2019-01-19T20:06:16+01:00
 ---
 
-MyData aiming for individuals to have control over their own data. JobTech MyData goal is a distributed and decentralized data storage for the labour market. Take CV data as an example: It should be accessible for those who have an interest in reading or writing in the data but on the basis that the individual always has control of the information. Massive data sets collected by companies and authorities creates possibility to see patterns in the behavior of people, and create new products and services to create a new value. The data can also be used for other purposes for example monitoring or affect opinions in politics. To control a lot of individual data could mean a risk.
+MyData aims for individuals to have control over their own data.The JobTech MyData goal is a distributed and decentralized data storage for the labour market. Take CV data as an example: It should be accessible for those who have an interest in reading or writing in the data but on the basis that the individual always has control of the information. Massive data sets collected by companies and authorities creates possibility to see patterns in the behavior of people, and create new products and services to create a new value. The data can also be used for other purposes for example monitoring or affect opinions in politics. To control a lot of individual data could mean a risk.
 
 ### Purpose
 - Protect the individual's right to his data
@@ -15,7 +15,7 @@ Our second goal is to enable innovation. To be able to in a better way collabora
 New and better services for jobseekers and employers. Free and efficient cross-border mobility, reducing the cost of employers and an easier user experience.
 
 ### Transparence and collaboration
-Our goal is to be 100% transparence and we will put all code and documentation on Github. The meaning is to consolidate knowledge and increase collaboration with other initiatives working on the same thought. We would be very happy to get in contact with you and we will support you with our knowledge but also learn from yours.
+Our goal is to be 100% transparent and we will put all code and documentation on Github. The meaning is to consolidate knowledge and increase collaboration with other initiatives working on the same thought. We would be very happy to get in contact with you and we will support you with our knowledge but also learn from yours.
 
 ### The code
 By visualizing and practically show how ownership of your own data could work, it will become easier for others to take stand on the concept.

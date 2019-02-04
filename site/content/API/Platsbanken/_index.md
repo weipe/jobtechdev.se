@@ -3,7 +3,7 @@ title: "Open Jobs"
 date: 2018-01-28T21:58:09+01:00
 disableToc: true
 menuTitle: "Jobs - Current Jobs Online"
-weight: 60
+weight: 25
 ---
 
 The Open Job API contains all current job ads from Swedish Public Employment Service. Somewhere around 100000 job ads, about 3000 new ads are submitted daily by employers, 5 million accesses to the job posting database daily.
@@ -28,9 +28,12 @@ If you are looking for a "bagare" (baker), you also get hits for "Konditor" (con
 
 See the technical description for details requests.
 
+## Endpoint
 {{< highlight bash >}}
-curl api.platsbankenads
+https://jobtechdev.se/swagger/index.html
 {{< /highlight >}}
 
 
 Learn more about the Platsbanken API or start use the API right away
+
+[API Open Jobs (Platsbanken)](https://jobtechdev.se/swagger/index.html)

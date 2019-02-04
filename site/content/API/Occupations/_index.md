@@ -2,6 +2,7 @@
 title: "Occupations info"
 disableToc: true
 menuTitle: "Occupations - Descriptions"
+weight: 31
 date: 2019-01-19T20:06:16+01:00
 ---
 
@@ -32,3 +33,5 @@ Application description (please be short):
 ````
 https://jobtechdev.se/raml_vagledning/index.html#docs/summary/summary
 ````
+
+[API Occupations info](https://jobtechdev.se/raml_vagledning/index.html#docs/summary/summary)

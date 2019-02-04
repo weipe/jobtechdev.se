@@ -2,6 +2,7 @@
 title: "Taxonomy"
 disableToc: true'
 menuTitle: "Occupations - Taxonomy"
+weight: 33
 date: 2019-01-19T20:06:16+01:00
 ---
 
@@ -16,3 +17,4 @@ You need to use the language code 502 (Swedish) to get the results of the reques
 ```
 http://api.arbetsformedlingen.se/taxonomi/v0/TaxonomiService.asmx?
 ```
+[Taxonomy webservice](http://api.arbetsformedlingen.se/taxonomi/v0/TaxonomiService.asmx?)
