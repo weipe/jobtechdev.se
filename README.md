@@ -1,6 +1,7 @@
 # JobTech.se (web site)
 
 ## Installation
+
 Get the code:
 ```
 %> git clone <git repo>
