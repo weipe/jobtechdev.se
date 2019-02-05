@@ -19,9 +19,9 @@ We are using text analysis from millions of ads to continously improve the JobTe
 We are currently developing a new uniform structure of all taxonomy data. The new structure will support both stable slow changeing standardized data like SSYK and more flexible rapidly changed data like skills and occupations. 
 
 ### Articles
-* [SSYK and ESCO standard](/doc/SSYKochESCO.pdf)
-* [History of Taxonomy](/doc/vardeforradskomponentergenomaren.pdf)
-* [Updating the Taxonomy](/cont//uppdateringavvardeforradskomponenter.pdf)
+* [SSYK and ESCO standard](/doc/projects/common/SSYKochESCO/)
+* [History of Taxonomy](/doc/projects/common/Historyoftaxonomy/)
+* [Updating the Taxonomy](/doc/projects/common/updatingTaxonomy/)
 
 ### Current API's
 * [Taxonomi with SSYK]({{< ref "api/taxonomy/_index.md" >}})
