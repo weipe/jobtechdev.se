@@ -26,4 +26,3 @@ We are currently developing a new uniform structure of all taxonomy data. The ne
 ### Current API's
 * [Taxonomi with SSYK]({{< ref "api/taxonomy/_index.md" >}})
 * [Ontology]({{< ref "api/Ontology/_index.md" >}})
-{{< FAQ "1"="ett" "2"="två" >}}
