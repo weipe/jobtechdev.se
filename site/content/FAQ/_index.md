@@ -13,7 +13,7 @@ pre: ""
 # The title of the page in menu will be postfixed by this HTML content
 post: ""
 # Set the page as a chapter, changing the way it's displayed
-chapter: true
+chapter: false
 # Hide a menu entry by setting this to true
 hidden: false
 # Display name of this page modifier. If set, it will be displayed in the footer.
@@ -21,4 +21,8 @@ LastModifierDisplayName: ""
 # Email of this page modifier. If set with LastModifierDisplayName, it will be displayed in the footer
 LastModifierEmail: ""
 ---
-{{< FAQ "1"="fråga,svar" "2"="två" >}}
+<hr>
+{{< FAQ 
+    "1"="fråga|Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five http://jquery2dotnet.com/ centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum." 
+    "2"="två" 
+>}}
