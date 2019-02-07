@@ -282,6 +282,9 @@ p {
     line-height: 24px;
     margin-bottom: 24px;
 }
+p:first-letter {
+    text-transform: capitalize;
+}
 strong {
     font-weight: 600;
 }
@@ -7236,6 +7239,7 @@ a,
 .icon-propo {
     overflow:hidden;
     height:150px;
+
 }
 /* icon box left aligh */
 
