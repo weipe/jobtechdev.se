@@ -50,3 +50,4 @@ home = [ "HTML", "RSS", "JSON"]
   identifier = "hugodoc"
   url = "https://www.jobtechdev.se/"
   weight = 20
+

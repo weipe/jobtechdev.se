@@ -12,9 +12,9 @@ Occupational descriptions / Yrkesinfo is an API, containing descriptions of near
 To access this API you need to request the keys via email below. The information you provide will be used for statistical purpose and for reaching out to you in case of scheduled downtime, bug reporting etc. On a second phase, we will use this information to create an account where you will be able to manage your keys directly.
 {{% /notice %}}
 
-Authentication
+### Authentication
 Once the keys are acquired, the authentication to the services is done using two query parameters client_id and client_secret. These are required on all requests. Below is a sample of how query parameters are used:
-https://apier.arbetsformedlingen.se/yrkesinfo/publik/raf/v1/yrken?client_id=123&client_secret=123
+https://apiehttps://www.scb.se/dokumentation/klassifikationer-och-standarder/standard-for-svensk-yrkesklassificering-ssyk/r.arbetsformedlingen.se/yrkesinfo/publik/raf/v1/yrken?client_id=123&client_secret=123
 
 By requesting the API Key, you are authorizing the data you are providing, to be stored for as long as you will have access to this API.
 
