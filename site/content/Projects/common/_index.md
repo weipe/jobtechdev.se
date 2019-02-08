@@ -18,9 +18,7 @@ Our aim is for the labour market terminology observed via text analysis and data
 We believe that optimal results are achieved when a data driven approach meets an expert driven.
 
 
-####  [Occupations and skills in Sweden](/doc/occupations_skills_Sweden.pdf)
+ 
 
-
-#### Current APIs
-* [Taxonomi with SSYK]({{< ref "api/taxonomy/_index.md" >}})
+* [Occupations and skills in Sweden](/doc/occupations_skills_Sweden.pdf)
 * [Ontology]({{< ref "api/Ontology/_index.md" >}})
