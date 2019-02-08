@@ -14,8 +14,9 @@ To access this API you need to request the keys via email below. The information
 
 ### Authentication
 Once the keys are acquired, the authentication to the services is done using two query parameters client_id and client_secret. These are required on all requests. Below is a sample of how query parameters are used:
+````
 https://apiehttps://www.scb.se/dokumentation/klassifikationer-och-standarder/standard-for-svensk-yrkesklassificering-ssyk/r.arbetsformedlingen.se/yrkesinfo/publik/raf/v1/yrken?client_id=123&client_secret=123
-
+````
 By requesting the API Key, you are authorizing the data you are providing, to be stored for as long as you will have access to this API.
 
 You can request access to this API via email to apirequest@jobtechdev.se. Please include the following in your request:

@@ -17,9 +17,11 @@ Once the keys are acquired, the authentication to the services is done using two
 By requesting the API Key, you are authorizing the data you are providing, to be stored for as long as you will have access to this API.
 Request Access API Console
 
-You can request access to this API via email to apirequest@jobtechdev.se. Please include the following in your request:
+You can request access to this API via email to <apirequest@jobtechdev.se> 
 {{% notice info %}}
-Email Subject: API request – "Name of the API"
+Please include following in your request:
+**Email Subject:** API request – "Name of the API"
+**Email Body:**
 Name:
 Surname:
 Company name (if applicable):
