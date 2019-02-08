@@ -7,7 +7,7 @@ disableToc: true
 weight: 10
 ---
 
-To access certain API's you need to request the keys via email, see below. The information you provide will be used for statistical purposes and for reaching out to you in case of scheduled downtime, bug reporting etc. In a second phase, we will use this information to create an account where you will be able to manage your keys directly.
+To access certain APIs you need to request the keys via email, see below. The information you provide will be used for statistical purposes and for reaching out to you in case of scheduled downtime, bug reporting etc. In a second phase, we will use this information to create an account where you will be able to manage your keys directly.
 ### Authentication
 
 Once the keys are acquired, the authentication to the services is done using two query parameters client_id and client_secret. These are required on all requests. Below is a sample of how query parameters are used:

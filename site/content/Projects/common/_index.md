@@ -23,6 +23,6 @@ We are currently developing a new uniform structure of all taxonomy data. The ne
 * [History of Taxonomy](/doc/vardeforradskomponentergenomaren.pdf)
 * [Updating the Taxonomy](/doc/uppdateringavvardeforradskomponenter.pdf)
 
-### Current API's
+### Current APIs
 * [Taxonomi with SSYK]({{< ref "api/taxonomy/_index.md" >}})
 * [Ontology]({{< ref "api/Ontology/_index.md" >}})
