@@ -23,9 +23,10 @@ LastModifierEmail: ""
 ---
 <hr>
 {{< FAQ     
-    "1"="Am I allowed to chache and store data in my own backend?| Yes, you are allowed to cache and store data from our open API's to your own backend"
-    "2"="How can I add an application or service of my own as a Sample?| To add a sample, it needs to be open source. Please email us at contact@jobtechdev.se if you would like to publish a sample of your own."
-    "3"="What's the difference between SSYK and Yrkesid?|SSYK is a Swedish standard for occupation classification. SSYK is used to organize information of vacancies, empolyees and occupations. You can read more on SSYK at https://www.scb.se/dokumentation/klassifikationer-och-standarder/standard-for-svensk-yrkesklassificering-ssyk/ Yrkesid is ...." 
-    "4"="How can I get all jobs from Arbetsförmedlingen Platsbanken?|The query to get all jobs in Sweden published at Platsbanken, is http://api.arbetsformedlingen.se/af/v0/platsannonser/matchning?landid=199"
+    "1"="Am I allowed to chache and store data in my own backend?| Yes, you are allowed to cache and store data from our open API's to your own backend "
+    "2"="Can I add an application of my own as a Sample?|Yes, we´d love to show what you´ve done! To add a sample, it needs to be open source. Please email us at contact@jobtechdev.se if you would like to publish a sample of your own."
+    "3"="What's the difference between SSYK and Yrkesid?|In short, SSYK is the standard for the Swedish Standard Classification of Occupations. SSYK also refers to the whole occupation classification structure. Yrkesid represents a specific occupation." 
+    "4"="How can I access all the jobs from Arbetsförmedlingen Platsbanken?|Find it here: http://api.arbetsformedlingen.se/af/v0/platsannonser/matchning?landid=199"
     
 >}}
+
