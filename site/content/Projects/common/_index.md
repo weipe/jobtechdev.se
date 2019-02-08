@@ -4,25 +4,23 @@ disableToc: true
 date: 2018-01-28T21:58:09+01:00
 ---
 
-The purpous for JobTech Taxonomy is to support a common language for describing labour market information.
+The purpose of Jobtech Taxonomy is to provide a relevant vocabulary for important elements in the language for the labour market
 
-- **Stability** -The structured standardized information changed via a committee. The most important standard is SSYK Swedish Standard Classification of Occupations.
-- **Flexibility** -The skills and occupations  extracted from published job ads. 
-{{% notice info %}}
-We are using text analysis from millions of ads to continously improve the JobTech Taxonomy.
-{{% /notice %}}
+Jobtech Taxonomy contains concepts that describe, among other things, occupations, skills and relationships between them, 
+which can be used for example as a basis for matching. The content is continuously updated in consultation with actors in the labour market
+
 
 
 
 {{< figure src="/doc/Vardeforradskomponenter.jpg" title="Components" width="85%" >}}
 ## Paradigm of the Future
-We are currently developing a new uniform structure of all taxonomy data. The new structure will support both stable slow changeing standardized data like SSYK and more flexible rapidly changed data like skills and occupations. 
+Our aim is for the labour market terminology observed via text analysis and data collection should help enrich the content of Jobtech Taxonomy - but not without quality assurance. 
+We believe that optimal results are achieved when a data driven approach meets an expert driven.
 
-### Articles
-* [SSYK and ESCO standard](/doc/SSYKochEsco.pdf)
-* [History of Taxonomy](/doc/vardeforradskomponentergenomaren.pdf)
-* [Updating the Taxonomy](/doc/uppdateringavvardeforradskomponenter.pdf)
 
-### Current APIs
+####  [Occupations and skills in Sweden](/doc/occupations_skills_Sweden.pdf)
+
+
+#### Current APIs
 * [Taxonomi with SSYK]({{< ref "api/taxonomy/_index.md" >}})
 * [Ontology]({{< ref "api/Ontology/_index.md" >}})
