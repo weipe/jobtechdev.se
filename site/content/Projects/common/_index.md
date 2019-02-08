@@ -4,9 +4,9 @@ disableToc: true
 date: 2018-01-28T21:58:09+01:00
 ---
 
-The purpose of Jobtech Taxonomy is to provide a relevant vocabulary for important elements in the language for the labour market
+The purpose of JobTech Taxonomy is to provide a relevant vocabulary for important elements in the language for the labour market
 
-Jobtech Taxonomy contains concepts that describe, among other things, occupations, skills and relationships between them, 
+JobTech Taxonomy contains concepts that describe, among other things, occupations, skills and relationships between them, 
 which can be used for example as a basis for matching. The content is continuously updated in consultation with actors in the labour market
 
 
