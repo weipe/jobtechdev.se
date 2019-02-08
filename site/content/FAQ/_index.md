@@ -22,8 +22,10 @@ LastModifierDisplayName: ""
 LastModifierEmail: ""
 ---
 <hr>
-{{< FAQ 
-    "1"="fråga|Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five http://jquery2dotnet.com/ centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum." 
-    "2"="två" 
-    "3"="när|nu"
+{{< FAQ     
+    "1"="Am I allowed to chache and store data in my own backend?| Yes, you are allowed to cache and store data from our open API's to your own backend"
+    "2"="How can I add an application or service of my own as a Sample?| To add a sample, it needs to be open source. Please email us at contact@jobtechdev.se if you would like to publish a sample of your own."
+    "3"="What's the difference between SSYK and Yrkesid?|SSYK is a Swedish standard for occupation classification. SSYK is used to organize information of vacancies, empolyees and occupations. You can read more on SSYK at https://www.scb.se/dokumentation/klassifikationer-och-standarder/standard-for-svensk-yrkesklassificering-ssyk/ Yrkesid is ...." 
+    "4"="How can I get all jobs from Arbetsförmedlingen Platsbanken?|The query to get all jobs in Sweden published at Platsbanken, is http://api.arbetsformedlingen.se/af/v0/platsannonser/matchning?landid=199"
+    
 >}}
