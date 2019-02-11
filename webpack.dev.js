@@ -11,8 +11,10 @@ const theme = 'hugo-theme-learn';
 module.exports = {
 
     watch: true,
+    watchOptions: {
+        poll: true
+    },
     context: process.cwd(),
-
     resolve: {
         extensions: ['.js', '.scss', '.css']
     },
