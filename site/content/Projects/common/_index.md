@@ -21,5 +21,5 @@ We believe that optimal results are achieved when a data driven approach meets a
  
 
 * [Occupations and skills in Sweden](/doc/occupations_skills_Sweden.pdf)
-* [Ontology API]({{< ref "/API/Ontology/_index.md" >}})
+* [Ontology API]({{< ref "/api/ontology/_index.md" >}})
 * [Taxonomy API]({{< ref "/API/taxonomy/_index.md" >}})
