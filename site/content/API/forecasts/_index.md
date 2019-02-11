@@ -22,4 +22,4 @@ The API is an open interface without contract or registration requirements.
 http://api.arbetsformedlingen.se/af/v2/forecasts/api/#!/forecasts/
 ````
 
-[API Occupation forecast](http://api.arbetsformedlingen.se/af/v2/forecasts/api/#!/forecasts/)
+[Occupation forecast API](http://api.arbetsformedlingen.se/af/v2/forecasts/api/#!/forecasts/)

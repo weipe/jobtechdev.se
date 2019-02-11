@@ -23,4 +23,4 @@ The state of the Ontology is beta and it is changing to continuously and is impr
 http://ontologi.arbetsformedlingen.se/ontology/v1/?url=swagger.json
 ```
 
-[API Ontology](http://ontologi.arbetsformedlingen.se/ontology/v1/?url=swagger.json)
+[Ontology API](http://ontologi.arbetsformedlingen.se/ontology/v1/?url=swagger.json)

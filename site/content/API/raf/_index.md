@@ -16,5 +16,5 @@ RAF is a documentation that can be used as support and guidance in assessing wor
 https://jobtechdev.se/raml_vagledning/index.html#docs/summary/summary
 ```
 
-[API Work ability](/raml_vagledning/index.html#docs/summary/summary)
+[Work ability API](/raml_vagledning/index.html#docs/summary/summary)
 

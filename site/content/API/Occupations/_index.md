@@ -35,4 +35,4 @@ Application description (please be short):
 https://jobtechdev.se/raml_vagledning/index.html#docs/summary/summary
 ````
 
-[API Occupations info](/raml_vagledning/index.html#docs/summary/summary)
+[Occupations info API](/raml_vagledning/index.html#docs/summary/summary)
