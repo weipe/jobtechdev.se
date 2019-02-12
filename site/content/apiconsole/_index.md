@@ -1,8 +1,8 @@
 ---
 title: "Console"
 disableToc: true
-menuTitle: "dsad - Forecasts"
-weight: 31
+menuTitle: "API Console"
+weight: 11
 ---
 
 
