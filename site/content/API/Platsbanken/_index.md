@@ -37,3 +37,6 @@ https://jobtechdev.se/swagger/index.html
 Learn more about the Platsbanken API or start use the API right away
 
 [API Open Jobs (Platsbanken)](/swagger/index.html)
+
+
+
