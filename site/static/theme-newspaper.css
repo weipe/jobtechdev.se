@@ -21,7 +21,9 @@
   margin: 0 auto;
   padding: 0 20px
 }
-
+#logo-api {
+  margin-left: 3rem;
+}
 .swagger-ui .opblock-tag-section {
   display: -webkit-box;
   display: -ms-flexbox;
