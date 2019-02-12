@@ -1,5 +1,5 @@
 ---
-title: "Historical job postings"
+title: "Historical Jobs"
 disableToc: true
 menuTitle: "Jobs - Historical Jobs"
 weight: 20

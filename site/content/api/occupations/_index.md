@@ -1,12 +1,12 @@
 ---
-title: "Occupations info"
+title: "Occupation info"
 disableToc: true
-menuTitle: "Occupation - Descriptions"
+menuTitle: "Occupation - Info"
 weight: 31
 date: 2019-01-19T20:06:16+01:00
 ---
 
-Occupational descriptions / Yrkesinfo is an API, containing descriptions of nearly 350 different occupations. The API is supposed to be used by anyone who wants to download texts and descriptions of one or more professions from the Swedish Public Employment Service Profession A-Ö application.
+Occupational info / Yrkesinfo is an API, containing descriptions of nearly 350 different occupations. The API is supposed to be used by anyone who wants to download texts and descriptions of one or more professions from the Swedish Public Employment Service Profession A-Ö application.
 
 To access this API you need to request the keys via email below. The information you provide will be used for statistical purpose and for reaching out to you in case of scheduled downtime, bug reporting etc. On a second phase, we will use this information to create an account where you will be able to manage your keys directly.
 

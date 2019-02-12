@@ -1,5 +1,5 @@
 ---
-title: "Assessing Work Ability"
+title: "Work Ability"
 menuTitle: "Occupation - Work Ability"
 disableToc: true
 weight: 34

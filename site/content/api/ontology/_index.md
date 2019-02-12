@@ -1,5 +1,5 @@
 ---
-title: "Job Market Ontology"
+title: "Ontology"
 menuTitle: "Occupation - Ontology"
 disableToc: true
 weight: 32
