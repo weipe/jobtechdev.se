@@ -21,7 +21,7 @@ LastModifierDisplayName: ""
 # Email of this page modifier. If set with LastModifierDisplayName, it will be displayed in the footer
 LastModifierEmail: ""
 ---
- <hr>
+  <hr>
 {{< FAQ     
     "1"="Am I allowed to chache and store data in my own backend?| Yes, you are allowed to cache and store data from our open API's to your own backend "
     "2"="Can I add an application of my own as a Sample?|Yes, we´d love to show what you´ve done! To add a sample, it needs to be open source. Please email us at contact@jobtechdev.se if you would like to publish a sample of your own."
