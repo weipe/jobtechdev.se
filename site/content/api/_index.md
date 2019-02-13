@@ -1,5 +1,5 @@
 ---
-title: "API's"
+title: "APIs"
 date: 2018-01-28T21:58:09+01:00
 #anchor: "API"
 weight: 10
@@ -21,7 +21,7 @@ LastModifierDisplayName: ""
 # Email of this page modifier. If set with LastModifierDisplayName, it will be displayed in the footer
 LastModifierEmail: ""
 ---
-# API's
+# APIs
 <hr>
 ### Open resources for developers
 

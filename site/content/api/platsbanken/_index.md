@@ -2,7 +2,7 @@
 title: "Open Jobs"
 date: 2018-01-28T21:58:09+01:00
 disableToc: true
-menuTitle: "Jobs - Current Jobs Online"
+menuTitle: "Jobs - Open Jobs"
 weight: 25
 ---
 
@@ -36,4 +36,4 @@ https://jobtechdev.se/swagger/index.html
 
 Learn more about the Platsbanken API or start use the API right away
 
-[API Open Jobs (Platsbanken)](/swagger/index.html)
+[Open Jobs API (Platsbanken)](/swagger/index.html)

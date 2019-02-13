@@ -21,7 +21,7 @@ The information about all jobs are used in [Jobtech Search]({{< ref "projects/se
 To show how this information can be used the application [Jobscanner]({{< ref "other/_index.md" >}}) was created.
 The continues improvement of the [Jobtech Taxonomy]({{< ref "projects/common/_index.md" >}}) is done with help of JobTech Jobs.
 
-### Current API's
+### Current APIs
 * [Open Jobs]({{< ref "api/platsbanken/_index.md" >}}) from Swedish Public Employment Service
 * [Historical Job ads]({{< ref "api/historical/_index.md" >}})
 

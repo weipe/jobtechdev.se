@@ -1,6 +1,6 @@
 ---
-title: "Job Market Ontology"
-menuTitle: "Occupations - Ontology"
+title: "Ontology"
+menuTitle: "Occupation - Ontology"
 disableToc: true
 weight: 32
 date: 2019-01-19T20:06:16+01:00
@@ -23,4 +23,4 @@ The state of the Ontology is beta and it is changing to continuously and is impr
 http://ontologi.arbetsformedlingen.se/ontology/v1/?url=swagger.json
 ```
 
-[API Ontology](http://ontologi.arbetsformedlingen.se/ontology/v1/?url=swagger.json)
+[Ontology API](http://ontologi.arbetsformedlingen.se/ontology/v1/?url=swagger.json)
