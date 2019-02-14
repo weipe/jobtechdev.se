@@ -1,4 +1,4 @@
-<div class="container py-3">
+<!--<div class="container py-3">
     <div class="row">
         <div class="col-12 mx-auto">
             <div class="accordion" id="faqExample">
@@ -20,12 +20,59 @@
             </div>
         </div>
     </div>
-    <!--/row-->
+    &lt;!&ndash;/row&ndash;&gt;
+</div>-->
+{{range $key,$val := .Params}}
+{{$items := split $val "|"}}
+<button class="collapsible">Q: {{index $items 0}}</button>
+<div class="content">
+    <p><b>Answer:</b> {{index $items 1}}</p>
 </div>
+{{end}}
 <!--container-->
-<link href="../css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-<script src="../css/bootstrap.min.js"></script>
+<!--<link href="../css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="../css/bootstrap.min.js"></script>-->
 
 <!------ Include the above in your HEAD tag ---------->
 
 
+<script>
+    let coll = document.getElementsByClassName("collapsible");
+    let i;
+
+    for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            let content = this.nextElementSibling;
+            if (content.style.display === "block") {
+                content.style.display = "none";
+            } else {
+                content.style.display = "block";
+            }
+        });
+    }
+</script>
+<style>
+    .collapsible {
+        background-color: #777;
+        color: white;
+        cursor: pointer;
+        padding: 18px;
+        width: 100%;
+        border: none;
+        text-align: left;
+        outline: none;
+        font-size: 15px;
+    }
+
+    .active, .collapsible:hover {
+        background-color: #555;
+    }
+
+    .content {
+        padding: 0 18px;
+        display: none;
+        overflow: hidden;
+        background-color: #f1f1f1;
+    }
+</style>
