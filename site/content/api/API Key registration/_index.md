@@ -23,6 +23,6 @@ You can request access to API via email to <apirequest@jobtechdev.se>
 Please include following in your request:  
 **Email Subject:** API request – "Name of the API"  
 **Email Body:**Name:  Surname:  Company name: (if applicable):    
-**Application name:**  
+**Application name:** Name of your application  
 **Application description:** (please be short):
 {{% /notice %}}
