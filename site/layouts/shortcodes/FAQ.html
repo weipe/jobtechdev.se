@@ -24,7 +24,7 @@
 </div>-->
 {{range $key,$val := .Params}}
 {{$items := split $val "|"}}
-<button class="collapsible q-bubble">Q: {{index $items 0}}</button>
+<div class="collapsible q-bubble">Q: {{index $items 0}}</div>
 <div class="content a-bubble">
 
     <p><b>Answer:</b> {{index $items 1}}</p>
@@ -59,7 +59,7 @@
         background-color: #777;
         color: white;
         cursor: pointer;
-        padding: 18px;
+
         margin: 2px;
         width: 100%;
         border: none;
@@ -73,7 +73,7 @@
     }
 
     .content {
-        padding: 0 18px;
+
         display: none;
 
         background-color: #f1f1f1;
@@ -85,6 +85,7 @@
         -webkit-box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.26);
         -moz-box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.26);
         box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.26);
+        padding: 10px;
     }
 
     .q-bubble:after {
@@ -118,6 +119,7 @@
         -webkit-box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.26);
         -moz-box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.26);
         box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.26);
+        padding: 10px;
     }
 
     .a-bubble:after {
