@@ -7,22 +7,21 @@ disableToc: true
 weight: 10
 ---
 
-To access certain APIs you need to request the keys via email, see below. The information you provide will be used for statistical purposes and for reaching out to you in case of scheduled downtime, bug reporting etc. In a second phase, we will use this information to create an account where you will be able to manage your keys directly.
-#### Authentication
+#### JobTech provides APIs from different sources:
 
-Once the keys are acquired, the authentication to the services is done using two query parameters client_id and client_secret. These are required on all requests. Below is a sample of how query parameters are used:
-```
-<https://apier.arbetsformedlingen.se/yrkesinfo/publik/raf/v1/yrken?client_id=123&client_secret=123>
-```
+• **Labour market relevant APIs** - Our own APIs, based on open data created by us or through collaboration with our partners  
+• **Swedish Public Employment Service** - APIs from the Swedish Public Employment Service (Arbetsförmedlingen)
+
+To access certain APIs you need to request a key, the process will differ depending on the source.  
+Information on how to register for a key will be provided at the API page.  
+
+The information you provide will be used for statistical purposes and for reaching out to you in case of scheduled downtime, bug reporting etc.  
+In a second phase, we will use this information to create an account where you will be able to manage your keys directly.
+
 By requesting the API Key, you are authorizing the data you are providing, to be stored for as long as you will have access to this API.
 
 
 
-{{% notice info %}}
-You can request access to API via email to <apirequest@jobtechdev.se>   
-Please include following in your request:  
-**Email Subject:** API request – "Name of the API"  
-**Email Body:**Name:  Surname:  Company name: (if applicable):    
-**Application name:** Name of your application  
-**Application description:** (please be short):
-{{% /notice %}}
+
+
+
