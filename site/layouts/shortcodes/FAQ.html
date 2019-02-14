@@ -24,11 +24,13 @@
 </div>-->
 {{range $key,$val := .Params}}
 {{$items := split $val "|"}}
+<div class="card">
 <div class="collapsible q-bubble">Q: {{index $items 0}}</div>
-<div class="content a-bubble">
+<div class="card-content a-bubble">
 
     <p><b>Answer:</b> {{index $items 1}}</p>
 
+</div>
 </div>
 {{end}}
 <!--container-->
@@ -68,30 +70,39 @@
     }
 
     .active, .collapsible:hover {
-        text-decoration: underline;
+        
+
     }
 
-    .content {
+    .card-content {
 
+        border:1px solid;
         display: none;
+        border-radius: .2em;
 
         background-color: #f1f1f1;
     }
-    .q-bubble {
+    .card {
+        max-width: 700px;
         margin: auto;
-        margin-bottom: 8px;
+
+    }
+    .q-bubble {
+
+        margin: auto;
+        margin-bottom: 0px;
         margin-top: 8px;
         position: relative;
-        max-width: 700px;
+
         background: #4A4A4A;
-        border-radius: 1.2em;
+
         -webkit-box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.26);
         -moz-box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.26);
         box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.26);
         padding: 10px;
     }
 
-    .q-bubble:after {
+/*    .q-bubble:after {
         content: '';
 
         background: transparent;
@@ -114,21 +125,20 @@
 
 
 
-    }
+    }*/
     .a-bubble {
-        margin: auto;
-        margin-top: 8px;
-        max-width: 700px;
+
+
         position: relative;
         background: #E8DFF6;
-        border-radius: 1.2em;
+
         -webkit-box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.26);
         -moz-box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.26);
         box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.26);
         padding: 10px;
     }
 
-    .a-bubble:after {
+/*    .a-bubble:after {
         content: '';
         background: transparent;
         position: absolute;
@@ -148,5 +158,5 @@
         -ms-transform: rotate(375deg);
         transform: rotate(375deg);
 
-    }
+    }*/
 </style>
