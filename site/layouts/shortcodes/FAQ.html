@@ -39,17 +39,16 @@
 
 
 <script>
-    let coll = document.getElementsByClassName("collapsible");
-    let i;
 
-    for (i = 0; i < coll.length; i++) {
-        coll[i].addEventListener("click", function() {
+
+    for (i = 0; i < document.getElementsByClassName("collapsible").length; i++) {
+        document.getElementsByClassName("collapsible")[i].addEventListener("click", function() {
             this.classList.toggle("active");
             let content = this.nextElementSibling;
-            if (content.style.display === "block") {
-                content.style.display = "none";
-            } else {
+            if (content.style.display != "block") {
                 content.style.display = "block";
+            } else {
+                content.style.display = "none";
             }
         });
     }
