@@ -19,11 +19,12 @@ https://apiehttps://www.scb.se/dokumentation/klassifikationer-och-standarder/sta
 By requesting the API Key, you are authorizing the data you are providing, to be stored for as long as you will have access to this API.
 
 {{% notice info %}}
+**Swedish Public Employment Service API** (Arbetsförmedlingens API)  
 You can request access to this API via email to <apirequest@jobtechdev.se>   
 Please include following in your request:  
 **Email Subject:** API request – "Name of the API"  
 **Email Body:**Name:  Surname:  Company name: (if applicable):    
-**Application name:**  
+**Application name:** Name of your application  
 **Application description:** (please be short):
 {{% /notice %}}
 ## Endpoint
