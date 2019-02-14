@@ -24,9 +24,11 @@
 </div>-->
 {{range $key,$val := .Params}}
 {{$items := split $val "|"}}
-<button class="collapsible">Q: {{index $items 0}}</button>
-<div class="content">
+<button class="collapsible q-bubble">Q: {{index $items 0}}</button>
+<div class="content a-bubble">
+
     <p><b>Answer:</b> {{index $items 1}}</p>
+
 </div>
 {{end}}
 <!--container-->
@@ -58,6 +60,7 @@
         color: white;
         cursor: pointer;
         padding: 18px;
+        margin: 2px;
         width: 100%;
         border: none;
         text-align: left;
@@ -66,13 +69,76 @@
     }
 
     .active, .collapsible:hover {
-        background-color: #555;
+        text-decoration: underline;
     }
 
     .content {
         padding: 0 18px;
         display: none;
-        overflow: hidden;
+
         background-color: #f1f1f1;
+    }
+    .q-bubble {
+        position: relative;
+        background: #777;
+        border-radius: .8em;
+        -webkit-box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.26);
+        -moz-box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.26);
+        box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.26);
+    }
+
+    .q-bubble:after {
+        content: '';
+
+        background: transparent;
+        position: absolute;
+        left: 0;
+        top: 50%;
+        width: 0;
+        height: 0;
+        border: 26px solid transparent;
+        border-right-color: #777;
+        border-left: 0;
+        border-top: 0;
+        margin-top: -15.5px;
+        margin-left: -20px;
+        -moz-transform: rotate(353deg);
+        -webkit-transform: rotate(353deg);
+        -o-transform: rotate(353deg);
+        -ms-transform: rotate(353deg);
+        transform: rotate(353deg);
+
+
+    }
+    .a-bubble {
+
+        position: relative;
+        background: #f1f1f1;
+        border-radius: .8em;
+        -webkit-box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.26);
+        -moz-box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.26);
+        box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.26);
+    }
+
+    .a-bubble:after {
+        content: '';
+        background: transparent;
+        position: absolute;
+        right: 0;
+        top: 50%;
+        width: 0;
+        height: 0;
+        border: 26px solid transparent;
+        border-left-color: #f1f1f1;
+        border-right: 0;
+        border-top: 0;
+        margin-top: -15.5px;
+        margin-right: -20px;
+        -moz-transform: rotate(353deg);
+        -webkit-transform: rotate(353deg);
+        -o-transform: rotate(353deg);
+        -ms-transform: rotate(353deg);
+        transform: rotate(353deg);
+
     }
 </style>
