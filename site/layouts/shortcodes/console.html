@@ -48,7 +48,7 @@
         const ui = SwaggerUIBundle({
             urls: [
                 {url:"https://sokannonser.dev.services.jtech.se/swagger.json", name:"Jobs - Online Jobs"},
-                {url:"http://ontologi.arbetsformedlingen.se/ontology/v1/?url=swagger.json", name:"Occupations - Job market language"},
+                {url:"http://ontologi.arbetsformedlingen.se/ontology/v1/swagger.json", name:"Occupations - Job market language"},
                 {url:"http://api.arbetsformedlingen.se/af/v2/forecasts/api-docs", name:"Occupations - forecats"},
                 {url:"/swagger/af_swagger.json", name:"Jobs - Online Jobs - Deprecated"},
 
@@ -66,9 +66,11 @@
             //layout: "StandaloneLayout"
             layout: "StandaloneLayout"
         })
-        // End Swagger UI call region
-        window.ui = ui
+
+
+
     }
+
 </script>
 </body>
 </html>
