@@ -33,4 +33,4 @@ In order to make this happen, we believe it’s time to embrace open source as a
 We want - and need - input from the community on this one! How do we create the best possible platform and community in order to make our vision come true? What do you want, and need?
 
 ### Want to get in touch?
-contact@jobtechdev.se
+<contact@jobtechdev.se>
