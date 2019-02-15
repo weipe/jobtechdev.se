@@ -3,6 +3,7 @@
 ## Installation
 
 Get the code:
+
 ```
 %> git clone <git repo>
 ```
