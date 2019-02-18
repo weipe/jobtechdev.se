@@ -1,6 +1,6 @@
 ---
 title: "Samples and projects"
-menuTitle: "Samples"
+menuTitle: "Projects"
 date: 2018-01-28T21:58:09+01:00
 disableToc: true
 chapter: false
@@ -8,7 +8,7 @@ weight: 100
 section: false
 ---
 
-All JobTech projects -big or small -are open source:
+All JobTech projects - big or small - are open source:
 
 - **Widgets:** Applications made for you to integrate
 - **Application:** Stand-alone end-user applications
