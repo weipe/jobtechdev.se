@@ -767,7 +767,7 @@
   },
   "info": {
     "title": "S\u00f6k Annonser",
-    "version": "1.0",
+    "version": "Version 1.0",
     "description": "Hitta platsannonser."
   },
   "produces": ["application/json"],

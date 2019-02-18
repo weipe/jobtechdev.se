@@ -9,7 +9,7 @@ weight: 10
 
 #### JobTech provides APIs from different sources:
 
-• **Labour market relevant APIs** - Our own APIs, based on open data created by us or through collaboration with our partners  
+• **Labour market relevant APIs** - Data and functionality created in collaboration between public and private sector for the labour market.   
 • **Swedish Public Employment Service** - APIs from the Swedish Public Employment Service (Arbetsförmedlingen)
 
 To access certain APIs you need to request a key, the process will differ depending on the source.  
