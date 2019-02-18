@@ -10,7 +10,7 @@ section: false
 
 All JobTech projects - big or small - are open source:
 
-- **Widgets:** Applications made for you to integrate
+- **Widgets:** Applications made for you to integrate into your own thing
 - **Application:** Stand-alone end-user applications
 - **Tools:** Utilities for developers
 
